@@ -7,6 +7,6 @@
 | updateProduct | PUT/product/:id | Updating specific product details | 
 | deleteProduct | DELETE/product/:id | Deleting a specific product | 
 
-- change the api names based on the request
+- Change the api names based on the request
 - Error Handling is maintained in the code 
 - API's are written using node.js, Express.js and MongoDB database.
