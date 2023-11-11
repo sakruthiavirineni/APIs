@@ -4,7 +4,9 @@
 | getProducts | GET/product | Retrieve all product details |
 | addNewProduct | POST/product | Creating a new Product |
 | getProductById | GET/product/:id | Retrieve the specific product details based on id |
-| UpdateProduct | PUT/product/:id | Updating specific product details | 
-| DeleteProduct | DELETE/product/:id | Deleting a specific product | 
+| updateProduct | PUT/product/:id | Updating specific product details | 
+| deleteProduct | DELETE/product/:id | Deleting a specific product | 
 
-
+- change the api names based on the request
+- Error Handling is maintained in the code 
+- API's are written using node.js, Express.js and MongoDB database.
